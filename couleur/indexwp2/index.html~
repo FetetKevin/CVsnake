@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+ <head>
+    <meta charset="UTF-8"/>
+    <link rel="stylesheet" type="text/css" href="css.css"/>
+    <script type="text/javascript" src="monscript.js"/></script>
+    <title>CV De Solid Snake</title>
+ </head>
+<body>
+<header class="b3blue">
+<img id="bandeau" src="bandeau.jpg"/>
+</header>
+
+<div class="contourpage b3vert">
+<div class="infosperso">
+    <h1>Informations personnelles</h1>
+    <img id="identpic" src="pdp.jpg">
+     <!-- Information de contact du personnage -->
+      <p>Nom de naissance: David</p>
+      <p>Nom professionel: Solid Snake</p>
+      <p>Date de naissance: 1972</p>
+      <p>Nationalite: Americain</p>
+      <p>Codec:141.80</p>
+
+</div>
+<div class="presentation">
+    <h2>Ma presentation</h2>
+         <!-- Paragraphe de presentation -->
+    <p>Bonjour, je suis David plus connu sous le nom de<br> Solid Snake je suis un soldat d'elite expert en infiltration est en combat rapproché.Surentrainé,
+je suis apte a remplir, en solitaire,des missions ultra-secrete et dangereuses en territoire ennemie.
+</p>
+</div>
+
+
+<div class="parcours">
+    <h3>Mon parcours</h3> <!-- 4 elements concernant sa formation -->
+      <p>Anciennement sujet du projet "Les Enfants Terribles" du gouvernement Americain en 1972</p>
+      <p>A accompli son service millitaire au sein des "Green Berets" en 1991</p>
+      <p>Ensuite j'ai rejoind "l'unitée des forces speciales de "Big Boss" appelée "FOXHOUND" en 1995"</p>
+      <p>A suivi une formation d'espion</p>
+
+    <h3>Mes experiences</h3> <!-- 3 experiences pro -->
+      <p>A participé a une mission d'infiltration en Irak de l'Ouest, pendant la "Guerre du Golf" en 1991</p>
+      <p>En 1995, j'ai du infiltrer le "Outer Heaven", une base millitaire sithuée en afrique du sud"</p>
+      <p>En Decembre 1999, je fut appelé par le nouveau commandant "Roy Campbell" pour infiltration en Asie centrale</p>
+</div>
+</div>
+
+<div class="interest">
+<footer>
+    <h4>Mes centres d'interets</h4>
+    <img id="intpic" src="Solid.jpg"/>
+<div class="interest">
+    <ul> <!-- Centre d'interet -->
+      <li>J'aime l'espionnage</li>
+      <li>Detruire des engins Nucleaires a mes heures perdues</li>
+      <li>Aime se cacher dans des cartons</li>
+      <li>Maniement des armes a feux</li>
+    </ul>
+</div>
+</footer>
+<body>
+</html>

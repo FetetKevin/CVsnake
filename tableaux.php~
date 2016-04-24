@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+ <head>
+    <meta charset="UTF-8"/> <!-- inclus les caracteres speciaux -->
+    <title>CV De Solid Snake</title> <!-- ajoute un titre -->
+ </head>
+ 
+<body>
+   <?php
+       $DonneesCV = array('CV De Solid Snake','Informations personnelles','Nom de naissance:David','Nom de naissance:David','Nom professionel:Solid Snake','Date de naissance:1972','Nationalite:Americain','Codec:141.80','Ma presentation','Bonjour, je suis David plus connu sous le nom de Solid Snake je suis un soldat d\'elite expert en infiltrations et en combats rapprochés.','Surentrainé,je suis apte a remplir, en solitaire,des missions ultra-secretes et dangereuses en territoire ennemie.','Mon parcours','- Anciennement sujet du projet "Les Enfants Terribles" du gouvernement Americain en 1972.','- J\'ai accompli mon service millitaire au sein des "Green Berets" en 1991.','- J\'ai suivi une formation d\'espion.','- Ensuite j\'ai rejoint "l\'unitée des forces speciales de "Big Boss" appelées "FOXHOUND" en 1995.','Mes experiences','- J\'ai participé a une mission d\'infiltration en Irak de l\'Ouest, pendant la "Guerre du Golf" en 1991.','- En <em>1995</em>, j\'ai du infiltrer le "Outer Heaven", une base millitaire sithuée en afrique du sud".','- En Decembre <em>1999</em>, je fut appelé par le nouveau commandant "Roy Campbell" pour une infiltration en Asie centrale.','Mes centres d\'interets','- J\'aime l\'espionnage.','- Detruire des "Engins Nucleaires" a mes heures perdues.','- J\'aime me cacher dans des cartons.','- Maniement des armes a feux.');
+  ?>
+
+</body>
+</html>

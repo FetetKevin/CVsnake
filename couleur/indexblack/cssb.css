@@ -1,0 +1,169 @@
+body {
+	 background-color: black;
+}
+.b3blue { 
+         background-color: rgba(0%,0%,0%,0.5);
+         border: 2px solid blue;
+         width: 900px;
+         margin: auto;
+         height: 170px;
+}
+.contourbandeau {
+	            display: block;
+	            border: 8px ridge grey;
+				width: 430px;
+				margin: auto;
+}
+#bandeau {
+         display: block;
+         width: 430px;
+         height: 160px;
+         margin: auto;
+         position: relative;
+}
+.contourpage {
+              border: 2px solid yellow;
+              width: 900px;
+              margin: auto;
+}
+.infosperso { 
+             background-color: rgba(0%,0%,0%,0.5);
+             display: block;
+             float: left;
+             border: 3px solid red;
+             width: 240px;
+             height: 877px;
+			 padding: 30px;
+}
+.infosperso p {
+              text-align: center;
+              margin-top: 30px;
+}
+#identpic {
+           border: 6px ridge grey;
+           height: 170px;
+           width: 110px;
+           margin-left: 55px;
+}
+#foxhound {
+	       border: 6px ridge grey;
+           height: 200px;
+           width: 200px;
+           margin-left: 13px;
+	       margin-top: 65px;
+}
+.presentation {
+	           background-color: rgba(0%,0%,0%,0.5);
+               border: 3px solid #eafaea;
+               width: 590px;
+               margin-left: 305px;
+}
+.presentation p {
+                margin-top: 30px;
+				padding: 10px;
+				 
+}
+
+.parcours {
+	       background-color: rgba(0%,0%,0%,0.5);
+           border: 2px solid green;
+           width: 590px;
+           margin-left: 305px;
+}
+.parcours h2 {
+             border: 3px solid red;
+             margin-top:0px;
+}
+.parcours p {
+	        padding: 10px;
+}
+.centreinteret {
+	            background-color: rgba(0%,0%,0%,0.5);
+                border: 2px solid #eafaea;
+                width: 900px;
+                height: 250px;
+                margin: auto;
+}
+#intpic {    
+         display: inline-block;
+         border: 6px ridge grey;
+         height: 170px;
+         width: 190px;
+         float: right;
+         margin-right: 30px;
+		 margin-top: -7px;
+}
+.interest {
+           border: 2px solid red;
+           width:600px;
+           margin-top: 20px;
+}
+.commandtab {
+	         background-color: rgba(0%,0%,0%,0.5);
+	         border: 3px solid red;
+             height: 50px;			
+	         width: 900px;
+			 margin: auto;
+}
+.bouton {
+	    background-color: rgba(100%,100%,100%,0.5);
+	    display: block;
+	    height: 20px;
+		width: 160px;
+	    border: 6px ridge grey;
+        color: black;
+        font-size:18px;
+		font-family: 'share tech mono', sans-serif;
+        cursor:pointer;
+		padding: 10px;
+}
+.bouton:hover {
+    text-decoration:underline;
+	color: #33ff33;
+}
+h1 {
+   border: 1px solid #66ff66;
+   box-shadow: 3px 3px 3px #66ff66;
+   font-family: 'share tech mono', sans-serif;
+   text-align: center;
+   color: #33ff33;
+}
+h2 {
+   width: 250px;
+   margin: auto;
+   margin-top: 20px;
+   border: 1px solid #66ff66;
+   box-shadow: 3px 3px 3px #66ff66;
+   font-family: 'share tech mono', sans-serif;
+   color: #33ff33;
+   text-align: center;
+}
+h3 {
+width: 250px;
+   margin: auto;
+   margin-top: 20px;
+   border: 1px solid #66ff66;
+   box-shadow: 3px 3px 3px #66ff66;
+   font-family: 'share tech mono', sans-serif;
+   color: #33ff33;
+   text-align: center;
+}
+h4 {
+   width: 250px;
+   margin: auto;
+   margin-top: 20px;
+   border: 1px solid #66ff66;
+   box-shadow: 3px 3px 3px #66ff66;
+   font-family: 'share tech mono', sans-serif;
+   color: #33ff33;
+   text-align: center;
+}
+p {
+  font-family: 'Orbitron', sans-serif;
+  color: #80ff80;
+  margin-left:10px;
+}
+li {
+  font-family: 'Orbitron', sans-serif;
+  color: #80ff80;
+}
